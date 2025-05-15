@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://aasher-3689.github.io/pytanic-linktree-html/sitemap.xml
+
